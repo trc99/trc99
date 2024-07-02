@@ -2,6 +2,7 @@
 
 ## I'm a 17 year old backend developer
 
+[![](https://skillicons.dev/icons?i=python,fastapi,postgresql,sqlite,selenium,html)](https://skillicons.dev)
 - 🌱 Currently studying Python, FastAPI
 
 ## types of projects I wrote:
