@@ -1,13 +1,18 @@
 ## Hi there 👋
 
-## I am a 17 y.o. backend developer
+## I'm a 17 year old backend developer
 
-- 🌱 I’m currently learning Python, FastAPI
+- 🌱 Currently studying Python, FastAPI
 
-## types of projects that I have written:
--  a complicated Telegram bots using AIOgram (shops, etc.)
--  Selenium/Playwright browser automation (farms of gambling bonuses, bot for automatic communication on dating sites, mailing to forums)
--  Appium automation (wechat downloader)
--  userbots on Pyrogram
--  website parsers (youtube search, ozon parser, forums parser)
--  improving or fix programs (yookassa payments addition to site)
+## types of projects I wrote:
+- complex Telegram bots using AIOgram (shops, etc.)
+- Selenium/Playwright browser automation (gambling bonus farms, bot for automatic communication on dating sites, mailings to forums)
+- Appium automation (WeChat downloader)
+- custom bots on Pyrogram
+- websites parsers (youtube search, ozon goods parser, forum parser)
+- improvement or correction of programs (adding yookassa payments to the site, etc)
+
+## projects I'm currently working on:
+- fastapi webapp for bio pages for developers
+- casino bonuses abuse farm with multiaccount 
+
