@@ -10,4 +10,4 @@
 -  Appium automation (wechat downloader)
 -  userbots on Pyrogram
 -  website parsers (youtube search, ozon parser, forums parser)
--  improving or fix programs or write (yookassa payments addition to site)
+-  improving or fix programs (yookassa payments addition to site)
