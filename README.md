@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm a 17 year old backend developer
+## I'm a 18 year old backend developer
 
 [![](https://skillicons.dev/icons?i=python,fastapi,postgresql,sqlite,selenium,html)](https://skillicons.dev)
 
